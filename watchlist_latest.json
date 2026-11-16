@@ -1,7 +1,7 @@
 {
   "as_of": "2026-11-13",
   "display_date_jst": "2026-11-14",
-  "generated_at": "2026-11-15T07:58:05.092329+00:00",
+  "generated_at": "2026-11-16T13:29:35.910245+00:00",
   "breakout_health": {
     "score": 65.3,
     "zone": "Constructive",
@@ -20,9 +20,9 @@
         "hybrid_rs": 91.9,
         "close": 955.469970703125,
         "change_pct": 0.45,
-        "adr_pct": 3.620913472495202,
-        "dist_ema21low_adr_mult": 2.7691836561422773,
-        "atrx_sma50": 5.104840781210037,
+        "adr_pct": 3.620913472495224,
+        "dist_ema21low_adr_mult": 2.769108874208665,
+        "atrx_sma50": 5.10491487539987,
         "p2_flag": true,
         "u_mode": "200SMA",
         "phase": 3,
@@ -41,8 +41,8 @@
         "close": 36.34000015258789,
         "change_pct": 2.6,
         "adr_pct": 2.7824026034654725,
-        "dist_ema21low_adr_mult": 1.4235436809348785,
-        "atrx_sma50": 2.755920771825007,
+        "dist_ema21low_adr_mult": 1.414989324624224,
+        "atrx_sma50": 2.685424457674009,
         "p2_flag": true,
         "u_mode": "200SMA",
         "phase": 2,
@@ -51,13 +51,33 @@
         "stop": 35.96444006347656,
         "next_earnings": null,
         "sector": "Consumer Defensive",
-        "market_cap": 49456564132.122986,
-        "vcs_score": 32.1
+        "market_cap": 49456863246.66424,
+        "vcs_score": 31.2
+      },
+      {
+        "ticker": "LW",
+        "rs_1m": 71.42857142857143,
+        "hybrid_rs": 75.4,
+        "close": 56.060001373291016,
+        "change_pct": 1.5,
+        "adr_pct": 2.9845683165824477,
+        "dist_ema21low_adr_mult": 1.5984533933684082,
+        "atrx_sma50": 3.4826597776065373,
+        "p2_flag": true,
+        "u_mode": "200SMA",
+        "phase": 2,
+        "pivot_1st": 55.41289937591553,
+        "pivot_2nd": 56.959999084472656,
+        "stop": 55.41289937591553,
+        "next_earnings": "2026-12-17",
+        "sector": "Consumer Defensive",
+        "market_cap": 7723972048.03265,
+        "vcs_score": 46.7
       },
       {
         "ticker": "KMX",
         "rs_1m": 57.142857142857146,
-        "hybrid_rs": 68.5,
+        "hybrid_rs": 68.6,
         "close": 53.220001220703125,
         "change_pct": 1.22,
         "adr_pct": 4.359775599682836,
@@ -77,7 +97,7 @@
       {
         "ticker": "LYFT",
         "rs_1m": 71.42857142857143,
-        "hybrid_rs": 67.8,
+        "hybrid_rs": 68.2,
         "close": 16.979999542236328,
         "change_pct": 2.23,
         "adr_pct": 4.369212140541379,
@@ -93,6 +113,26 @@
         "sector": "Technology",
         "market_cap": 6416678508.592815,
         "vcs_score": 20.7
+      },
+      {
+        "ticker": "AEP",
+        "rs_1m": 76.19047619047619,
+        "hybrid_rs": 66.7,
+        "close": 129.17999267578125,
+        "change_pct": 0.21,
+        "adr_pct": 2.069370348918542,
+        "dist_ema21low_adr_mult": 1.0847771973378668,
+        "atrx_sma50": 1.8541901345451293,
+        "p2_flag": false,
+        "u_mode": "200SMA",
+        "phase": 1,
+        "pivot_1st": 128.9420993347168,
+        "pivot_2nd": 132.1699981689453,
+        "stop": 126.34381933270544,
+        "next_earnings": null,
+        "sector": "Utilities",
+        "market_cap": 70341907321.17004,
+        "vcs_score": 45.1
       }
     ],
     "ll_hl_1st_today": [
@@ -103,8 +143,8 @@
         "close": 36.34000015258789,
         "change_pct": 2.6,
         "adr_pct": 2.7824026034654725,
-        "dist_ema21low_adr_mult": 1.4235436809348785,
-        "atrx_sma50": 2.755920771825007,
+        "dist_ema21low_adr_mult": 1.414989324624224,
+        "atrx_sma50": 2.685424457674009,
         "p2_flag": true,
         "u_mode": "200SMA",
         "phase": 2,
@@ -113,13 +153,33 @@
         "stop": 35.96444006347656,
         "next_earnings": null,
         "sector": "Consumer Defensive",
-        "market_cap": 49456564132.122986,
-        "vcs_score": 32.1
+        "market_cap": 49456863246.66424,
+        "vcs_score": 31.2
+      },
+      {
+        "ticker": "LW",
+        "rs_1m": 71.42857142857143,
+        "hybrid_rs": 75.4,
+        "close": 56.060001373291016,
+        "change_pct": 1.5,
+        "adr_pct": 2.9845683165824477,
+        "dist_ema21low_adr_mult": 1.5984533933684082,
+        "atrx_sma50": 3.4826597776065373,
+        "p2_flag": true,
+        "u_mode": "200SMA",
+        "phase": 2,
+        "pivot_1st": 55.41289937591553,
+        "pivot_2nd": 56.959999084472656,
+        "stop": 55.41289937591553,
+        "next_earnings": "2026-12-17",
+        "sector": "Consumer Defensive",
+        "market_cap": 7723972048.03265,
+        "vcs_score": 46.7
       },
       {
         "ticker": "LYFT",
         "rs_1m": 71.42857142857143,
-        "hybrid_rs": 67.8,
+        "hybrid_rs": 68.2,
         "close": 16.979999542236328,
         "change_pct": 2.23,
         "adr_pct": 4.369212140541379,
@@ -137,9 +197,29 @@
         "vcs_score": 20.7
       },
       {
+        "ticker": "AEP",
+        "rs_1m": 76.19047619047619,
+        "hybrid_rs": 66.7,
+        "close": 129.17999267578125,
+        "change_pct": 0.21,
+        "adr_pct": 2.069370348918542,
+        "dist_ema21low_adr_mult": 1.0847771973378668,
+        "atrx_sma50": 1.8541901345451293,
+        "p2_flag": false,
+        "u_mode": "200SMA",
+        "phase": 1,
+        "pivot_1st": 128.9420993347168,
+        "pivot_2nd": 132.1699981689453,
+        "stop": 126.34381933270544,
+        "next_earnings": null,
+        "sector": "Utilities",
+        "market_cap": 70341907321.17004,
+        "vcs_score": 45.1
+      },
+      {
         "ticker": "KLAR",
         "rs_1m": 90.47619047619048,
-        "hybrid_rs": 45.2,
+        "hybrid_rs": 45.5,
         "close": 13.800000190734863,
         "change_pct": 8.58,
         "adr_pct": 4.211203589921975,
@@ -161,12 +241,12 @@
       {
         "ticker": "ADP",
         "rs_1m": 90.47619047619048,
-        "hybrid_rs": 87.7,
+        "hybrid_rs": 87.4,
         "close": 309.92999267578125,
         "change_pct": 0.65,
         "adr_pct": 2.3214955758235956,
-        "dist_ema21low_adr_mult": 2.380611283997542,
-        "atrx_sma50": 4.547420138223029,
+        "dist_ema21low_adr_mult": 2.3772601299723606,
+        "atrx_sma50": 4.5226507035016015,
         "p2_flag": true,
         "u_mode": "200SMA",
         "phase": 2,
@@ -176,32 +256,32 @@
         "next_earnings": "2027-01-27",
         "sector": "Technology",
         "market_cap": 122347787868.45557,
-        "vcs_score": 31.8
+        "vcs_score": 31.6
       },
       {
         "ticker": "AAPL",
         "rs_1m": 100.0,
-        "hybrid_rs": 78.4,
+        "hybrid_rs": 78.6,
         "close": 356.2699890136719,
         "change_pct": 0.39,
         "adr_pct": 2.138283708356914,
-        "dist_ema21low_adr_mult": 1.87530649274469,
-        "atrx_sma50": 2.238547889160649,
+        "dist_ema21low_adr_mult": 1.8449627548637013,
+        "atrx_sma50": 2.203794273049991,
         "p2_flag": true,
         "u_mode": "200SMA",
         "phase": 2,
-        "pivot_1st": 348.5905612550831,
-        "pivot_2nd": 355.1101713190276,
-        "stop": 348.5905612550831,
+        "pivot_1st": 348.8554383544922,
+        "pivot_2nd": 355.3800048828125,
+        "stop": 348.8554383544922,
         "next_earnings": "2027-01-28",
         "sector": "Technology",
         "market_cap": 5177380321484.68,
-        "vcs_score": 33.4
+        "vcs_score": 33.6
       },
       {
         "ticker": "COMP",
         "rs_1m": 90.47619047619048,
-        "hybrid_rs": 65.6,
+        "hybrid_rs": 65.8,
         "close": 10.210000038146973,
         "change_pct": 1.69,
         "adr_pct": 5.542942579451737,
@@ -223,12 +303,12 @@
       {
         "ticker": "ADP",
         "rs_1m": 90.47619047619048,
-        "hybrid_rs": 87.7,
+        "hybrid_rs": 87.4,
         "close": 309.92999267578125,
         "change_pct": 0.65,
         "adr_pct": 2.3214955758235956,
-        "dist_ema21low_adr_mult": 2.380611283997542,
-        "atrx_sma50": 4.547420138223029,
+        "dist_ema21low_adr_mult": 2.3772601299723606,
+        "atrx_sma50": 4.5226507035016015,
         "p2_flag": true,
         "u_mode": "200SMA",
         "phase": 2,
@@ -238,32 +318,32 @@
         "next_earnings": "2027-01-27",
         "sector": "Technology",
         "market_cap": 122347787868.45557,
-        "vcs_score": 31.8
+        "vcs_score": 31.6
       },
       {
         "ticker": "AAPL",
         "rs_1m": 100.0,
-        "hybrid_rs": 78.4,
+        "hybrid_rs": 78.6,
         "close": 356.2699890136719,
         "change_pct": 0.39,
         "adr_pct": 2.138283708356914,
-        "dist_ema21low_adr_mult": 1.87530649274469,
-        "atrx_sma50": 2.238547889160649,
+        "dist_ema21low_adr_mult": 1.8449627548637013,
+        "atrx_sma50": 2.203794273049991,
         "p2_flag": true,
         "u_mode": "200SMA",
         "phase": 2,
-        "pivot_1st": 348.5905612550831,
-        "pivot_2nd": 355.1101713190276,
-        "stop": 348.5905612550831,
+        "pivot_1st": 348.8554383544922,
+        "pivot_2nd": 355.3800048828125,
+        "stop": 348.8554383544922,
         "next_earnings": "2027-01-28",
         "sector": "Technology",
         "market_cap": 5177380321484.68,
-        "vcs_score": 33.4
+        "vcs_score": 33.6
       },
       {
         "ticker": "MNST",
         "rs_1m": 66.66666666666667,
-        "hybrid_rs": 66.4,
+        "hybrid_rs": 67.1,
         "close": 46.459999084472656,
         "change_pct": 1.95,
         "adr_pct": 2.3752014058075144,
@@ -283,7 +363,7 @@
       {
         "ticker": "COMP",
         "rs_1m": 90.47619047619048,
-        "hybrid_rs": 65.6,
+        "hybrid_rs": 65.8,
         "close": 10.210000038146973,
         "change_pct": 1.69,
         "adr_pct": 5.542942579451737,
@@ -310,8 +390,8 @@
         "close": 36.34000015258789,
         "change_pct": 2.6,
         "adr_pct": 2.7824026034654725,
-        "dist_ema21low_adr_mult": 1.4235436809348785,
-        "atrx_sma50": 2.755920771825007,
+        "dist_ema21low_adr_mult": 1.414989324624224,
+        "atrx_sma50": 2.685424457674009,
         "p2_flag": true,
         "u_mode": "200SMA",
         "phase": 2,
@@ -320,13 +400,13 @@
         "stop": 35.96444006347656,
         "next_earnings": null,
         "sector": "Consumer Defensive",
-        "market_cap": 49456564132.122986,
-        "vcs_score": 32.1
+        "market_cap": 49456863246.66424,
+        "vcs_score": 31.2
       },
       {
         "ticker": "KLAR",
         "rs_1m": 90.47619047619048,
-        "hybrid_rs": 45.2,
+        "hybrid_rs": 45.5,
         "close": 13.800000190734863,
         "change_pct": 8.58,
         "adr_pct": 4.211203589921975,
@@ -348,7 +428,7 @@
       {
         "ticker": "ZETA",
         "rs_1m": 90.47619047619048,
-        "hybrid_rs": 92.7,
+        "hybrid_rs": 92.9,
         "close": 36.650001525878906,
         "change_pct": -1.66,
         "adr_pct": 5.365435309988542,
@@ -362,7 +442,7 @@
         "stop": null,
         "next_earnings": null,
         "sector": "Technology",
-        "market_cap": 8333300657.296989,
+        "market_cap": 8496223547.880089,
         "vcs_score": 1.6
       },
       {
@@ -382,7 +462,7 @@
         "stop": null,
         "next_earnings": null,
         "sector": "Industrials",
-        "market_cap": 2098368454.0,
+        "market_cap": 2306129891.0,
         "vcs_score": 24.4
       }
     ],
@@ -390,12 +470,12 @@
       {
         "ticker": "SKYD",
         "rs_1m": 23.80952380952381,
-        "hybrid_rs": 43.0,
+        "hybrid_rs": 42.7,
         "close": 7.519999980926514,
         "change_pct": -0.92,
         "adr_pct": 5.849506629454226,
-        "dist_ema21low_adr_mult": -0.7199232863033596,
-        "atrx_sma50": -2.3979681398670696,
+        "dist_ema21low_adr_mult": -0.7214075654228255,
+        "atrx_sma50": -2.405682026741827,
         "p2_flag": false,
         "u_mode": "200SMA",
         "phase": null,
@@ -404,8 +484,8 @@
         "stop": null,
         "next_earnings": null,
         "sector": "Communication Services",
-        "market_cap": 37680298464.4289,
-        "vcs_score": 74.5
+        "market_cap": 37695671457.50991,
+        "vcs_score": 74.8
       }
     ],
     "momentum97": [
@@ -432,7 +512,7 @@
       {
         "ticker": "FROG",
         "rs_1m": 100.0,
-        "hybrid_rs": 95.2,
+        "hybrid_rs": 95.3,
         "close": 113.5999984741211,
         "change_pct": 2.71,
         "adr_pct": 7.68329099747791,
@@ -446,13 +526,13 @@
         "stop": null,
         "next_earnings": null,
         "sector": "Technology",
-        "market_cap": 14007028741.45713,
+        "market_cap": 14157117513.841133,
         "vcs_score": 0.0
       },
       {
         "ticker": "DUOL",
         "rs_1m": 100.0,
-        "hybrid_rs": 91.1,
+        "hybrid_rs": 91.4,
         "close": 165.30999755859375,
         "change_pct": 5.01,
         "adr_pct": 5.883461720805738,
@@ -472,7 +552,7 @@
       {
         "ticker": "CHYM",
         "rs_1m": 100.0,
-        "hybrid_rs": 88.0,
+        "hybrid_rs": 88.1,
         "close": 33.54999923706055,
         "change_pct": 1.57,
         "adr_pct": 4.071286551992692,
@@ -492,7 +572,7 @@
       {
         "ticker": "CRK",
         "rs_1m": 100.0,
-        "hybrid_rs": 77.9,
+        "hybrid_rs": 78.3,
         "close": 15.180000305175781,
         "change_pct": 0.73,
         "adr_pct": 4.38661496252466,
@@ -512,12 +592,12 @@
       {
         "ticker": "AAON",
         "rs_1m": 100.0,
-        "hybrid_rs": 46.1,
+        "hybrid_rs": 45.9,
         "close": 80.25,
         "change_pct": 1.84,
-        "adr_pct": 7.976249832484328,
-        "dist_ema21low_adr_mult": 1.9246273533008809,
-        "atrx_sma50": 0.5727183481652268,
+        "adr_pct": 7.976249832484306,
+        "dist_ema21low_adr_mult": 1.9244438831351989,
+        "atrx_sma50": 0.5727051713717465,
         "p2_flag": false,
         "u_mode": "200SMA",
         "phase": null,
@@ -526,7 +606,7 @@
         "stop": null,
         "next_earnings": null,
         "sector": "Industrials",
-        "market_cap": 6616904529.75,
+        "market_cap": 6617618433.75,
         "vcs_score": 0.4
       },
       {
@@ -546,7 +626,7 @@
         "stop": null,
         "next_earnings": null,
         "sector": "Industrials",
-        "market_cap": 2098368454.0,
+        "market_cap": 2306129891.0,
         "vcs_score": 24.4
       }
     ],
@@ -554,7 +634,7 @@
       {
         "ticker": "KLAR",
         "rs_1m": 90.47619047619048,
-        "hybrid_rs": 45.2,
+        "hybrid_rs": 45.5,
         "close": 13.800000190734863,
         "change_pct": 8.58,
         "adr_pct": 4.211203589921975,
@@ -576,12 +656,12 @@
       {
         "ticker": "AAON",
         "rs_1m": 100.0,
-        "hybrid_rs": 46.1,
+        "hybrid_rs": 45.9,
         "close": 80.25,
         "change_pct": 1.84,
-        "adr_pct": 7.976249832484328,
-        "dist_ema21low_adr_mult": 1.9246273533008809,
-        "atrx_sma50": 0.5727183481652268,
+        "adr_pct": 7.976249832484306,
+        "dist_ema21low_adr_mult": 1.9244438831351989,
+        "atrx_sma50": 0.5727051713717465,
         "p2_flag": false,
         "u_mode": "200SMA",
         "phase": null,
@@ -590,7 +670,7 @@
         "stop": null,
         "next_earnings": null,
         "sector": "Industrials",
-        "market_cap": 6616904529.75,
+        "market_cap": 6617618433.75,
         "vcs_score": 0.4
       },
       {
@@ -610,7 +690,7 @@
         "stop": null,
         "next_earnings": null,
         "sector": "Industrials",
-        "market_cap": 2098368454.0,
+        "market_cap": 2306129891.0,
         "vcs_score": 24.4
       },
       {
@@ -682,8 +762,8 @@
     }
   },
   "category_counts": {
-    "ll_hl_1st": 4,
-    "ll_hl_1st_today": 3,
+    "ll_hl_1st": 6,
+    "ll_hl_1st_today": 5,
     "ll_hl_2nd": 3,
     "ll_hl_2nd_today": 4,
     "trendline_break": 0,
@@ -718,10 +798,11 @@
     {
       "symbol": "ROKU",
       "reason": "stale_last_bar",
-      "last_bar": "2026-11-06"
+      "last_bar": "2026-11-09"
     }
   ],
   "market_cap_missing": 0,
   "config_version": "watchlist_config v9",
-  "structure_version": "v2"
+  "structure_version": "v2",
+  "price_basis": "raw"
 }
