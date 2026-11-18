@@ -1,13 +1,5 @@
 [
   {
-    "date": "2025-11-17",
-    "score": 37.8,
-    "n_events": 90,
-    "score_prov": 34.8,
-    "n_events_prov": 115,
-    "def": "bh3-a-w20-g5-secondpivot"
-  },
-  {
     "date": "2025-11-18",
     "score": 37.2,
     "n_events": 86,
@@ -2014,6 +2006,15 @@
     "n_events": 77,
     "score_prov": 35.2,
     "n_events_prov": 88,
+    "def": "bh3-a-w20-g5-secondpivot",
+    "price_basis": "raw"
+  },
+  {
+    "date": "2026-11-18",
+    "score": 47.4,
+    "n_events": 76,
+    "score_prov": 40.0,
+    "n_events_prov": 85,
     "def": "bh3-a-w20-g5-secondpivot",
     "price_basis": "raw"
   }
