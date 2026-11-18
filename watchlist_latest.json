@@ -1,7 +1,7 @@
 {
   "as_of": "2026-11-17",
   "display_date_jst": "2026-11-18",
-  "generated_at": "2026-11-17T21:42:22.118922+00:00",
+  "generated_at": "2026-11-18T02:57:28.340233+00:00",
   "breakout_health": {
     "score": 45.5,
     "zone": "Neutral",
@@ -108,9 +108,9 @@
         "hybrid_rs": 34.0,
         "close": 54.47999954223633,
         "change_pct": 1.17,
-        "adr_pct": 4.715272933848946,
-        "dist_ema21low_adr_mult": -1.2890487955215504,
-        "atrx_sma50": -3.2102525162223525,
+        "adr_pct": 4.717029784249904,
+        "dist_ema21low_adr_mult": -1.2886123790309925,
+        "atrx_sma50": -3.208767691776744,
         "p2_flag": false,
         "u_mode": "200SMA",
         "phase": null,
@@ -238,15 +238,15 @@
         "hybrid_rs": 22.4,
         "close": 129.72999572753906,
         "change_pct": -0.63,
-        "adr_pct": 7.695434666243162,
-        "dist_ema21low_adr_mult": 0.6401091078174965,
-        "atrx_sma50": -1.8730804735793485,
+        "adr_pct": 7.695845424356484,
+        "dist_ema21low_adr_mult": 0.6401250393266348,
+        "atrx_sma50": -1.8729689767757922,
         "p2_flag": false,
         "u_mode": "200SMA",
         "phase": 3,
         "pivot_1st": 107.5191008605957,
         "pivot_2nd": 111.31999969482422,
-        "stop": 123.63961014091267,
+        "stop": 123.6391558451474,
         "next_earnings": "2027-02-03",
         "sector": "Industrials",
         "market_cap": 6901235944.858246,
@@ -339,7 +339,7 @@
     {
       "symbol": "ROKU",
       "reason": "stale_last_bar",
-      "last_bar": "2026-11-06"
+      "last_bar": "2026-11-09"
     }
   ],
   "market_cap_missing": 0,
