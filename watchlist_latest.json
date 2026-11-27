@@ -1,7 +1,7 @@
 {
   "as_of": "2026-11-25",
   "display_date_jst": "2026-11-26",
-  "generated_at": "2026-11-27T03:42:21.719612+00:00",
+  "generated_at": "2026-11-27T20:41:50.139374+00:00",
   "breakout_health": {
     "score": 47.8,
     "zone": "Neutral",
@@ -37,6 +37,8 @@
         "rs_6m": 81.74603174603175,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 95.4,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 25.1
       }
     ],
@@ -64,6 +66,8 @@
         "rs_6m": 81.74603174603175,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 95.4,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 25.1
       },
       {
@@ -89,6 +93,8 @@
         "rs_6m": 76.19047619047619,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 94.0,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 4.0
       }
     ],
@@ -116,10 +122,58 @@
         "rs_6m": 65.87301587301587,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 91.5,
+        "struct_failed_today": true,
+        "struct_pre_fail": {
+          "pivot_1st": 9.710819820404053,
+          "pivot_2nd": 10.279999732971191,
+          "tp1": 11.418359558105468,
+          "tp2": 12.690819362640381,
+          "phase": 2,
+          "stop": 9.710819820404053,
+          "hl": 8.789999961853027,
+          "ll": 8.420000076293945
+        },
         "vcs_score": 34.4
       }
     ],
-    "ll_hl_2nd_today": [],
+    "ll_hl_2nd_today": [
+      {
+        "ticker": "COMP",
+        "rs_1m": 100.0,
+        "hybrid_rs": 78.0,
+        "close": 10.609999656677246,
+        "change_pct": 7.72,
+        "adr_pct": 6.228552422186073,
+        "dist_ema21low_adr_mult": 1.6391890150741895,
+        "atrx_sma50": 1.872322151537423,
+        "p2_flag": false,
+        "u_mode": "200SMA",
+        "phase": null,
+        "pivot_1st": null,
+        "pivot_2nd": null,
+        "stop": null,
+        "next_earnings": null,
+        "sector": "Real Estate",
+        "market_cap": 8029247828.06628,
+        "rs_1w": 100.0,
+        "rs_3m": 100.0,
+        "rs_6m": 65.87301587301587,
+        "trend_base": 1.0,
+        "hybrid_rs_oratnek": 91.5,
+        "struct_failed_today": true,
+        "struct_pre_fail": {
+          "pivot_1st": 9.710819820404053,
+          "pivot_2nd": 10.279999732971191,
+          "tp1": 11.418359558105468,
+          "tp2": 12.690819362640381,
+          "phase": 2,
+          "stop": 9.710819820404053,
+          "hl": 8.789999961853027,
+          "ll": 8.420000076293945
+        },
+        "vcs_score": 34.4
+      }
+    ],
     "trendline_break": [
       {
         "ticker": "MIR",
@@ -144,6 +198,8 @@
         "rs_6m": 88.0952380952381,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 85.9,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 21.2
       },
       {
@@ -169,6 +225,8 @@
         "rs_6m": 65.07936507936508,
         "trend_base": 0.0,
         "hybrid_rs_oratnek": 68.3,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 22.5
       },
       {
@@ -194,6 +252,8 @@
         "rs_6m": 48.41269841269841,
         "trend_base": 0.0,
         "hybrid_rs_oratnek": 65.7,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 18.7
       }
     ],
@@ -221,61 +281,21 @@
         "rs_6m": 65.87301587301587,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 91.5,
+        "struct_failed_today": true,
+        "struct_pre_fail": {
+          "pivot_1st": 9.710819820404053,
+          "pivot_2nd": 10.279999732971191,
+          "tp1": 11.418359558105468,
+          "tp2": 12.690819362640381,
+          "phase": 2,
+          "stop": 9.710819820404053,
+          "hl": 8.789999961853027,
+          "ll": 8.420000076293945
+        },
         "vcs_score": 34.4
       }
     ],
-    "pp2_5d": [
-      {
-        "ticker": "ANF",
-        "rs_1m": 100.0,
-        "hybrid_rs": 92.1,
-        "close": 176.9600067138672,
-        "change_pct": 5.27,
-        "adr_pct": 5.544823365751639,
-        "dist_ema21low_adr_mult": 3.430525800305698,
-        "atrx_sma50": 3.4119934635723004,
-        "p2_flag": true,
-        "u_mode": "200SMA",
-        "phase": null,
-        "pivot_1st": null,
-        "pivot_2nd": null,
-        "stop": null,
-        "next_earnings": "2027-03-03",
-        "sector": "Consumer Cyclical",
-        "market_cap": 7509187638.818771,
-        "rs_1w": 100.0,
-        "rs_3m": 100.0,
-        "rs_6m": 100.0,
-        "trend_base": 1.0,
-        "hybrid_rs_oratnek": 100.0,
-        "vcs_score": 8.6
-      },
-      {
-        "ticker": "ZS",
-        "rs_1m": 85.71428571428571,
-        "hybrid_rs": 81.9,
-        "close": 230.86000061035156,
-        "change_pct": -0.33,
-        "adr_pct": 6.585210181166379,
-        "dist_ema21low_adr_mult": 1.847609290715587,
-        "atrx_sma50": 1.1300150391561343,
-        "p2_flag": true,
-        "u_mode": "200SMA",
-        "phase": null,
-        "pivot_1st": null,
-        "pivot_2nd": null,
-        "stop": null,
-        "next_earnings": null,
-        "sector": "Technology",
-        "market_cap": 37642807679.80069,
-        "rs_1w": 80.0,
-        "rs_3m": 92.06349206349206,
-        "rs_6m": 96.03174603174604,
-        "trend_base": 1.0,
-        "hybrid_rs_oratnek": 88.5,
-        "vcs_score": 24.2
-      }
-    ],
+    "pp2_5d": [],
     "vcs": [],
     "momentum97": [
       {
@@ -301,6 +321,8 @@
         "rs_6m": 100.0,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 100.0,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 36.2
       },
       {
@@ -326,6 +348,8 @@
         "rs_6m": 100.0,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 100.0,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 53.1
       },
       {
@@ -351,6 +375,8 @@
         "rs_6m": 100.0,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 100.0,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 8.6
       },
       {
@@ -376,6 +402,8 @@
         "rs_6m": 100.0,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 100.0,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 31.7
       },
       {
@@ -401,6 +429,8 @@
         "rs_6m": 81.74603174603175,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 95.4,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 25.1
       },
       {
@@ -426,6 +456,8 @@
         "rs_6m": 100.0,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 100.0,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 14.1
       },
       {
@@ -451,6 +483,17 @@
         "rs_6m": 65.87301587301587,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 91.5,
+        "struct_failed_today": true,
+        "struct_pre_fail": {
+          "pivot_1st": 9.710819820404053,
+          "pivot_2nd": 10.279999732971191,
+          "tp1": 11.418359558105468,
+          "tp2": 12.690819362640381,
+          "phase": 2,
+          "stop": 9.710819820404053,
+          "hl": 8.789999961853027,
+          "ll": 8.420000076293945
+        },
         "vcs_score": 34.4
       },
       {
@@ -476,6 +519,8 @@
         "rs_6m": 76.19047619047619,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 94.0,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 4.0
       },
       {
@@ -501,6 +546,8 @@
         "rs_6m": 99.2063492063492,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 99.8,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 0.2
       }
     ],
@@ -528,6 +575,8 @@
         "rs_6m": 100.0,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 100.0,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 8.6
       },
       {
@@ -553,6 +602,8 @@
         "rs_6m": 100.0,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 100.0,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 14.1
       },
       {
@@ -578,32 +629,18 @@
         "rs_6m": 65.87301587301587,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 91.5,
+        "struct_failed_today": true,
+        "struct_pre_fail": {
+          "pivot_1st": 9.710819820404053,
+          "pivot_2nd": 10.279999732971191,
+          "tp1": 11.418359558105468,
+          "tp2": 12.690819362640381,
+          "phase": 2,
+          "stop": 9.710819820404053,
+          "hl": 8.789999961853027,
+          "ll": 8.420000076293945
+        },
         "vcs_score": 34.4
-      },
-      {
-        "ticker": "AXON",
-        "rs_1m": 61.904761904761905,
-        "hybrid_rs": 29.9,
-        "close": 343.04998779296875,
-        "change_pct": 7.43,
-        "adr_pct": 6.910986793623364,
-        "dist_ema21low_adr_mult": 0.6539751955589773,
-        "atrx_sma50": -1.727489368954768,
-        "p2_flag": false,
-        "u_mode": "200SMA",
-        "phase": null,
-        "pivot_1st": null,
-        "pivot_2nd": null,
-        "stop": null,
-        "next_earnings": null,
-        "sector": "Industrials",
-        "market_cap": 27935490857.54834,
-        "rs_1w": 100.0,
-        "rs_3m": 20.634920634920636,
-        "rs_6m": 10.317460317460318,
-        "trend_base": 0.0,
-        "hybrid_rs_oratnek": 48.2,
-        "vcs_score": 33.2
       }
     ],
     "wk20": [
@@ -630,6 +667,8 @@
         "rs_6m": 100.0,
         "trend_base": 1.0,
         "hybrid_rs_oratnek": 100.0,
+        "struct_failed_today": false,
+        "struct_pre_fail": null,
         "vcs_score": 8.6
       }
     ]
@@ -684,27 +723,16 @@
     "ll_hl_1st": 1,
     "ll_hl_1st_today": 2,
     "ll_hl_2nd": 1,
-    "ll_hl_2nd_today": 0,
+    "ll_hl_2nd_today": 1,
     "trendline_break": 3,
     "pp": 1,
-    "pp2_5d": 2,
+    "pp2_5d": 0,
     "vcs": 0,
     "momentum97": 9,
-    "bull4": 4,
+    "bull4": 3,
     "wk20": 1
   },
   "multi3": [
-    {
-      "ticker": "ANF",
-      "categories": [
-        "pp2_5d",
-        "momentum97",
-        "bull4",
-        "wk20"
-      ],
-      "hybrid_rs": 92.1,
-      "rs_1m": 100.0
-    },
     {
       "ticker": "COMP",
       "categories": [
@@ -714,6 +742,16 @@
         "bull4"
       ],
       "hybrid_rs": 78.0,
+      "rs_1m": 100.0
+    },
+    {
+      "ticker": "ANF",
+      "categories": [
+        "momentum97",
+        "bull4",
+        "wk20"
+      ],
+      "hybrid_rs": 92.1,
       "rs_1m": 100.0
     }
   ],
@@ -739,7 +777,7 @@
     "market_cap": 3,
     "avg_volume_50d": 34
   },
-  "config_version": "watchlist_config v12",
+  "config_version": "watchlist_config v13",
   "structure_version": "v2",
   "price_basis": "raw"
 }
