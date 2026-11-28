@@ -1,7 +1,7 @@
 {
   "as_of": "2026-11-27",
   "display_date_jst": "2026-11-28",
-  "generated_at": "2026-11-28T03:21:27.455574+00:00",
+  "generated_at": "2026-11-28T07:05:46.285679+00:00",
   "breakout_health": {
     "score": 50.6,
     "zone": "Neutral",
@@ -546,20 +546,20 @@
   },
   "category_meta": {
     "ll_hl_1st": {
-      "label": "LL-HL Structure 1st Pivot",
-      "status": "近似"
+      "label": "LL-HL Structure 1st Pivot (前日の構造基準)",
+      "status": "確定"
     },
     "ll_hl_1st_today": {
       "label": "LL-HL Structure 1st Pivot (当日の構造基準)",
-      "status": "提案"
+      "status": "確定"
     },
     "ll_hl_2nd": {
-      "label": "LL-HL Structure 2nd Pivot",
+      "label": "LL-HL Structure 2nd Pivot (前日の構造基準)",
       "status": "確定"
     },
     "ll_hl_2nd_today": {
       "label": "LL-HL Structure 2nd Pivot (当日の構造基準)",
-      "status": "提案"
+      "status": "確定"
     },
     "trendline_break": {
       "label": "LL-HL Structure Trend Line Break",
@@ -579,7 +579,7 @@
     },
     "momentum97": {
       "label": "Momentum 97",
-      "status": "近似"
+      "status": "確定"
     },
     "bull4": {
       "label": "4% bullish (yesterday)",
